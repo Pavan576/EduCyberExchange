@@ -1,0 +1,12 @@
+{
+    "missing": {
+        "XF": [
+            "src/vendor/braintree/braintree_php/ci.sh",
+            "src/vendor/symfony/console/Resources/bin/hiddeninput.exe"
+        ]
+    },
+    "inconsistent": [],
+    "total_missing": 2,
+    "total_inconsistent": 0,
+    "total_checked": 4861
+}
